@@ -1,7 +1,5 @@
 {
   "name": "ionic-react-skeleton-text",
-  "integrations": {
-    "capacitor": {}
-  },
+  "integrations": {},
   "type": "react"
 }
