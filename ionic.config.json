@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-skeleton-text",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
